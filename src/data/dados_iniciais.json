@@ -1,0 +1,177 @@
+{
+  "categorias": [
+    {
+      "titulo": "DataScience",
+      "link": "https://www.alura.com.br/cursos-online-data-science/data-science",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Saiba mais sobre DataScience",
+        "url": "https://www.cetax.com.br/blog/data-science/"
+      },
+      "videos": [
+        {
+          "titulo": "Agora Aquela I.A. Foi Longe Demais (e vai mudar o jeito que você trabalha)",
+          "url": "https://www.youtube.com/watch?v=pbVwH8o837A"
+        },
+        {
+          "titulo": "O que é Data Science? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU"
+        },
+        {
+          "titulo": "Áreas de conhecimento em Data Science",
+          "url": "https://www.youtube.com/watch?v=8wFcg_zoJW4"
+        },
+        {
+          "titulo": "DATA SCIENCE E OS 5 V'S DO BIG DATA",
+          "url": "https://www.youtube.com/watch?v=G2WIC6aFQWY"
+        },
+        {
+          "titulo": "BIG DATA | Nerdologia",
+          "url": "https://www.youtube.com/watch?v=hEFFCKxYbKM"
+        },
+        {
+          "titulo": "Como ingressar no MERCADO de DATA SCIENCE | Bit de Prosa #8 (Especial Alura)",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        },
+        {
+          "titulo": "Como é ser data scientist no Nubank",
+          "url": "https://www.youtube.com/watch?v=umq9kCJFavw"
+        },
+        {
+          "titulo": "Como se Tornar um Cientista de Dados de Sucesso // Vlog #105",
+          "url": "https://www.youtube.com/watch?v=-vawLSNdo-A"
+        }        
+      ]
+    },
+    {
+      "titulo": "Back End",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Saiba mais sobre BackEnd",
+        "url": "https://www.alura.com.br/artigos/o-que-e-front-end-e-back-end"
+      },
+      "videos": [
+        {
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+        },
+        {
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+        },
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+        },
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        }, 
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        }
+      ]
+    },
+    {
+      "titulo": "Front End",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Saiba mais sobre FrontEnd",
+        "url": "https://www.alura.com.br/artigos/o-que-e-front-end-e-back-end"
+      },
+      "videos": [
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        },
+        {
+          "titulo": "Antes de ser frontend assista esse vídeo",
+          "url": "https://www.youtube.com/watch?v=hGalqf_D8To"
+        },
+        {
+          "titulo": "A História do Front-End para Iniciantes em Programação",
+          "url": "https://www.youtube.com/watch?v=VKmPGmFY7H4"
+        },
+        {
+          "titulo": "Dúvidas Front-end",
+          "url": "https://www.youtube.com/watch?v=vJhXcD8aK6Y"
+        }
+      ]
+    },
+    {
+      "titulo": "Reviews",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Novo DELL XPS 13! Robusto, mas elegante, leve e compacto. Que MÁQUINA! - TecMundo [Unboxing]",
+          "url": "https://www.youtube.com/watch?v=FBpMmXcV5pg"
+        },
+        {
+          "titulo": "LG K41S - Review Tecnoblog",
+          "url": "https://www.youtube.com/watch?v=wxy6JkhFv_Q"
+        },
+        {
+          "titulo": "REDMI NOTE 8! A XIAOMI DESTRUIU OUTRA VEZ! MUITO BOM e BARATO! UNBOXING!",
+          "url": "https://www.youtube.com/watch?v=RZDDYVmP_Fs"
+        },
+        {
+          "titulo": "ROG PHONE 3: UNBOXING DO SMARTPHONE MAIS PODEROSO DE 2020!",
+          "url": "https://www.youtube.com/watch?v=TdALKXTVZRU"
+        }
+      ]
+    },
+    {
+      "titulo": "Tecnologias IAs",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "Inteligência Artificial destruindo no dinossauro da Google! (Rede Neural)",
+          "url": "https://www.youtube.com/watch?v=NZlIYr1slAk"
+        },
+        {
+          "titulo": "Inteligência Artificial jogando Flappy Bird!!",
+          "url": "https://www.youtube.com/watch?v=vavXvu_SMeM"
+        },
+        {
+          "titulo": "Novo Robô Assusta por se Mover Igual (ou MELHOR) a um Humano",
+          "url": "https://www.youtube.com/watch?v=8REFJQEpF38"
+        },
+        {
+          "titulo": "Artificial intelligence & algorithms: pros & cons | DW Documentary (AI documentary)",
+          "url": "https://www.youtube.com/watch?v=s0dMTAQM4cw"
+        },
+        {
+          "titulo": "How artificial intelligence is changing our society | DW Documentary",
+          "url": "https://www.youtube.com/watch?v=-ePZ7OdY-Dw"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Não Decore Códigos, Início da Carreira, Speech to Text, Xamarin, Tema da Rocket no VS Code | #PR 09",
+          "url": "https://www.youtube.com/watch?v=2zie2R1IWQ4"
+        },
+        {
+          "titulo": "Programador Júnior precisa saber disto",
+          "url": "https://www.youtube.com/watch?v=4PEr_VFc39k"
+        },
+        {
+          "titulo": "Aprender a programar pode mudar a sua vida - Recode Pro 2020",
+          "url": "https://www.youtube.com/watch?v=0Gi-cSZetDY"
+        },
+        {
+          "titulo": "NÃO CONSIGO APRENDER (esse pensamento mudou a minha vida)",
+          "url": "https://www.youtube.com/watch?v=2F-4LdhrGuY"
+        }
+      ]
+    }
+  ]
+}
