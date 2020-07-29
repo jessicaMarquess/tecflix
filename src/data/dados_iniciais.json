@@ -44,6 +44,32 @@
       ]
     },
     {
+      "titulo": "Front End",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Saiba mais sobre FrontEnd",
+        "url": "https://www.alura.com.br/artigos/o-que-e-front-end-e-back-end"
+      },
+      "videos": [
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        },
+        {
+          "titulo": "Antes de ser frontend assista esse vídeo",
+          "url": "https://www.youtube.com/watch?v=hGalqf_D8To"
+        },
+        {
+          "titulo": "A História do Front-End para Iniciantes em Programação",
+          "url": "https://www.youtube.com/watch?v=VKmPGmFY7H4"
+        },
+        {
+          "titulo": "Dúvidas Front-end",
+          "url": "https://www.youtube.com/watch?v=vJhXcD8aK6Y"
+        }
+      ]
+    },
+    {
       "titulo": "Back End",
       "cor": "#00C86F",
       "link_extra": {
@@ -70,32 +96,6 @@
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
-    },
-    {
-      "titulo": "Front End",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Saiba mais sobre FrontEnd",
-        "url": "https://www.alura.com.br/artigos/o-que-e-front-end-e-back-end"
-      },
-      "videos": [
-        {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
-        },
-        {
-          "titulo": "Antes de ser frontend assista esse vídeo",
-          "url": "https://www.youtube.com/watch?v=hGalqf_D8To"
-        },
-        {
-          "titulo": "A História do Front-End para Iniciantes em Programação",
-          "url": "https://www.youtube.com/watch?v=VKmPGmFY7H4"
-        },
-        {
-          "titulo": "Dúvidas Front-end",
-          "url": "https://www.youtube.com/watch?v=vJhXcD8aK6Y"
         }
       ]
     },
